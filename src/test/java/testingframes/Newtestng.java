@@ -67,6 +67,7 @@ public class Newtestng {
 
 		driver.close();
 		System.out.println("closed");
+		System.err.println("quiet");
 	}
 	
 	
