@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32908" started-at="2022-01-04T09:07:49Z" finished-at="2022-01-04T09:08:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32908" started-at="2022-01-04T09:07:49Z" finished-at="2022-01-04T09:08:21Z">
+      <class name="testingframes.Newtestng">
+        <test-method status="PASS" signature="DateandTime()[pri:0, instance:testingframes.Newtestng@240237d2]" name="DateandTime" is-config="true" duration-ms="68" started-at="2022-01-04T09:07:49Z" finished-at="2022-01-04T09:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateandTime -->
+        <test-method status="PASS" signature="Browserlauch()[pri:0, instance:testingframes.Newtestng@240237d2]" name="Browserlauch" is-config="true" duration-ms="9826" started-at="2022-01-04T09:07:49Z" finished-at="2022-01-04T09:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlauch -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:testingframes.Newtestng@240237d2]" name="tc1" duration-ms="4266" started-at="2022-01-04T09:07:59Z" finished-at="2022-01-04T09:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="enddate()[pri:0, instance:testingframes.Newtestng@240237d2]" name="enddate" is-config="true" duration-ms="2" started-at="2022-01-04T09:08:03Z" finished-at="2022-01-04T09:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enddate -->
+        <test-method status="PASS" signature="Browserlauch()[pri:0, instance:testingframes.Newtestng@240237d2]" name="Browserlauch" is-config="true" duration-ms="3596" started-at="2022-01-04T09:08:03Z" finished-at="2022-01-04T09:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlauch -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:testingframes.Newtestng@240237d2]" name="tc2" duration-ms="13723" started-at="2022-01-04T09:08:06Z" finished-at="2022-01-04T09:08:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="enddate()[pri:0, instance:testingframes.Newtestng@240237d2]" name="enddate" is-config="true" duration-ms="1" started-at="2022-01-04T09:08:20Z" finished-at="2022-01-04T09:08:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enddate -->
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:testingframes.Newtestng@240237d2]" name="browserclose" is-config="true" duration-ms="1334" started-at="2022-01-04T09:08:20Z" finished-at="2022-01-04T09:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- testingframes.Newtestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
